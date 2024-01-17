@@ -1,7 +1,9 @@
 # InfixToPostfix-js
 This is repo for JavaScript program that will convert an Infix expression to Postfix expression.
 
-You can check it live at
+You can check it live at https://junaidsalim.github.io/InfixToPostfix-js/
+
+
 **Infix to Postfix Converter**
 This JavaScript program converts infix expressions to postfix notation. It utilizes a stack-based approach to handle operators and parentheses.
 
